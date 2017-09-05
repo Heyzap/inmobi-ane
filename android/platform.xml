@@ -1,0 +1,8 @@
+<platform xmlns="http://ns.adobe.com/air/extension/4.0">
+
+    <packagedDependencies>
+        <packagedDependency>InMobi-6.2.4.jar</packagedDependency>
+        <packagedDependency>picasso-2.5.2.jar</packagedDependency>
+    </packagedDependencies>
+    
+</platform>

@@ -1,0 +1,37 @@
+<platform xmlns="http://ns.adobe.com/air/extension/4.0">
+    <sdkVersion>7.0</sdkVersion>
+    
+    <linkerOptions>
+      <option>-framework AVFoundation</option>
+      <option>-framework AdSupport</option>
+      <option>-framework AdSupport</option>
+      <option>-framework AudioToolbox</option>
+      <option>-framework CoreGraphics</option>
+      <option>-framework CoreLocation</option>
+      <option>-framework CoreLocation</option>
+      <option>-framework CoreTelephony</option>
+      <option>-framework CoreTelephony</option>
+      <option>-framework EventKit</option>
+      <option>-framework EventKitUI</option>
+      <option>-framework MediaPlayer</option>
+      <option>-framework MediaPlayer</option>
+      <option>-framework MessageUI</option>
+      <option>-framework MessageUI</option>
+      <option>-framework MobileCoreServices</option>
+      <option>-framework QuartzCore</option>
+      <option>-framework SafariServices</option>
+      <option>-framework Security</option>
+      <option>-framework Security</option>
+      <option>-framework Social</option>
+      <option>-framework StoreKit</option>
+      <option>-framework StoreKit</option>
+      <option>-framework SystemConfiguration</option>
+      <option>-framework SystemConfiguration</option>
+      <option>-framework UIKit</option>
+      <option>-framework WebKit</option>
+    </linkerOptions>
+
+    <packagedDependencies>
+        <packagedDependency>InMobiSDK.framework</packagedDependency>
+    </packagedDependencies>
+</platform>
