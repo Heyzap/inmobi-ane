@@ -45,5 +45,5 @@ xcuserdata
 DerivedData
 *.xcuserstate
 
-build.config
+/build.config
 
