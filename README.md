@@ -7,8 +7,8 @@ The latest release can be found in [Releases](https://github.com/Heyzap/inmobi-a
 Pull requests and issues are welcome.
 
 #### InMobi Versions
-- iOS: 
-- Android: 6.2.2
+- iOS: 6.2.1
+- Android: 6.2.4
 
 #### Adding to your project
 
